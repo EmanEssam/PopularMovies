@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="most_poplar">Most Poplar</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="show_trailers">Show Trailers</string>
+    <string name="show_reviews">Show Reviews</string>
+    <string name="reviews">Reviews:</string>
+    <string name="trailers">Trailers:</string>
+    <string name="no_trailers_available">No Trailers Available!</string>
+    <string name="no_reviews_available">No Reviews Available</string>
+    <string name="no_data_available">No Data Available!</string>
+</resources>
